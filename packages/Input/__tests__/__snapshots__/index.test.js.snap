@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Lbr-Input input-snapshot 1`] = `
+<div>
+  <input
+    type="password"
+  />
+</div>
+`;
+
+exports[`lbr-Input input-snapshot 1`] = `
+<div>
+  <input
+    type="password"
+  />
+</div>
+`;
