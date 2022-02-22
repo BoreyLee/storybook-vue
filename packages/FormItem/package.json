@@ -1,6 +1,6 @@
 {
   "name": "lbr-formitem",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "LbrFormItem component",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
